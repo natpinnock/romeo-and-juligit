@@ -4,4 +4,8 @@ NAT: Hey Ines, how's it going?
 
 Ines: Im good, and you?
 
+<<<<<<< HEAD
 This is driving me crazy!
+=======
+NAT: Slightly frustrated, but staying positive! We've got this!! 
+>>>>>>> 024e2044675891e2f5d48d5b6684c78f0928bac8
